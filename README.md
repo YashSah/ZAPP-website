@@ -55,7 +55,9 @@
 - zego_uikit_prebuilt_call: ^4.6.0
 - http: ^1.2.1
 - package_info_plus: ^7.0.0
-- url_launcher: ^6.2.6## Color Reference
+- url_launcher: ^6.2.6
+
+## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
